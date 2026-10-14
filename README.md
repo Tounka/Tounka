@@ -27,7 +27,7 @@ Inicié mi formación en Ingeniería en Software en la **UAdeO en 2021**. Mi exp
 
 | Área | Herramientas |
 | --- | --- |
-| Frontend | React, Next.js, JavaScript, HTML5, CSS3, Styled Components |
+| Frontend | React, Next.js, JavaScript, HTML5, CSS3, Tailwind CSS, Styled Components |
 | Backend y datos | Node.js, Python, PostgreSQL, Supabase, Firebase |
 | CMS y e-commerce | WordPress, WooCommerce, Shopify, Stripe |
 | Infraestructura y versiones | Google Cloud, GitHub |
